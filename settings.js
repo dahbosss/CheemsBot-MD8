@@ -26,7 +26,7 @@ global.ownernomer = "2349161430224" //ur owner number2
 global.ownername = "dah boss" //ur owner name
 global.ytname = "YT: Xeon" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.location = "Lagos,Nigeria" //ur location
 
 //new
 global.botname = "pumpi"
@@ -35,14 +35,14 @@ global.ownername = 'ugo 드림'
 global.ownerNumber = ["2349161430224s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtu.be/L_SIk59QeAU"
-global.wagc = "https://chat.whatsapp.com/2349161430224"
+global.wagc = "https://chat.whatsapp.com/JePqXQL5BwaL52IMvfKONR"
 global.themeemoji = '🪀'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
 global.packname = "Sticker By"
-global.author = "🦄드림 가이 Xeon\n\n"
+global.author = "dah boss\n\n"
 global.creator = "916909137213@s.whatsapp.net"
-global.prefa = ['','!','.','#','&']
+global.prefa = ['!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
 
